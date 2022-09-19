@@ -1,0 +1,55 @@
+body {
+  font-family: serif;
+}
+
+h1 {
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-size: 76px;
+  padding: 70px 0px;
+  margin: auto;
+}
+
+p a {
+  color: #5a0104;
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px 0px 30px;
+}
+
+footer a {
+  color: #000000;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
+  margin: auto 10px;
+}
+
+img {
+  display: block;
+  max-width: 50%;
+  margin: 35px auto 20px;
+}
+
+.content {
+  padding: 0 20px;
+}
+
+.info {
+  font-size: 20px;
+  margin: 20px auto auto;
+}
+
+.link {
+  padding: 0px;
+  margin: 20px auto auto;
+}
+
+.contact {
+  font-size: 20px;
+  margin: 20px auto auto;
+}
