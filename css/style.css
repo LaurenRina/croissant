@@ -36,12 +36,13 @@ img {
 }
 
 .content {
-  padding: 0 20px;
+  padding: 0 50px;
 }
 
 .info {
+  text-align: justify;
   font-size: 20px;
-  margin: 20px auto auto;
+  margin: 50px auto auto;
 }
 
 .link {
@@ -51,5 +52,34 @@ img {
 
 .contact {
   font-size: 20px;
-  margin: 20px auto auto;
+  margin: 30px auto auto;
+}
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 114px;
+  }
+
+  p a {
+    font-size: 26px;
+  }
+
+  footer a {
+    font-size: 30px;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+  }
+
+  .info {
+    font-size: 30px;
+    margin: 30px auto auto;
+  }
+
+  .contact {
+    font-size: 30px;
+    margin: 30px auto auto;
+  }
 }
