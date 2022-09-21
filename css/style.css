@@ -58,15 +58,15 @@ img {
 
 @media screen and (max-width: 576px) {
   h1 {
-    font-size: 114px;
+    font-size: 98px;
   }
 
   p a {
-    font-size: 26px;
+    font-size: 24px;
   }
 
   footer a {
-    font-size: 30px;
+    font-size: 26px;
   }
 
   img {
@@ -75,12 +75,12 @@ img {
   }
 
   .info {
-    font-size: 30px;
+    font-size: 26px;
     margin: 30px auto auto;
   }
 
   .contact {
-    font-size: 30px;
+    font-size: 26px;
     margin: 30px auto auto;
   }
 }
